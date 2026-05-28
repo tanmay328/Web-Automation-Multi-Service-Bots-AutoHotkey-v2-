@@ -1,4 +1,4 @@
-# Web-Automation-Multi-Service-Bots-AutoHotkey-v2-
+# Web-Automation-Bots AHK (AutoHotkey-v2-)
 
 BOT 1 (backlink_all.ahk):
 An orchestration engine designed to automate data submission across 20+ classified advertising platforms sequentially. It features an advanced control GUI to manage live execution statistics, custom runtime caps, and graceful thread termination loops.
