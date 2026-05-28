@@ -9,8 +9,8 @@ An automated portal client that handles multipart data and asset uploads. It use
 BOT 3 (whatsapp service.ahk)
 A high-precision background scraper built to process automated text and database row states. The script injects custom analytical JavaScript to mathematically evaluate data fields and fires explicit change event bubbles to ensure seamless database synchronization.
 
-Core Libraries:
-1. UsedFindText.ahk: A high-speed, computer-vision library utilized for grayscale pixel-pattern matching. It serves as an intelligent UI fallback mechanism to visually detect on-screen milestones, page loads, and captcha/error states when traditional browser DOM elements are inaccessible.
+Core Libraries Used:
+1. FindText.ahk: A high-speed, computer-vision library utilized for grayscale pixel-pattern matching. It serves as an intelligent UI fallback mechanism to visually detect on-screen milestones, page loads, and captcha/error states when traditional browser DOM elements are inaccessible.
 2. Built-in AutoHotkey v2 GUI: The native, object-oriented user interface framework utilized to build stateful desktop dashboards that dynamically display live logs, track loop iterations, and capture user input metrics.
 
 Software Concepts Implemented:
