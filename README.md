@@ -1,2 +1,3 @@
 # Web-Automation-Multi-Service-Bots-AutoHotkey-v2-
 these are the automation bots i built for automation of a website 
+Core Libraries UsedFindText.ahk: A high-speed, computer-vision library utilized for grayscale pixel-pattern matching. It serves as an intelligent UI fallback mechanism to visually detect on-screen milestones, page loads, and captcha/error states when traditional browser DOM elements are inaccessible.  Built-in AutoHotkey v2 GUI: The native, object-oriented user interface framework utilized to build stateful desktop dashboards that dynamically display live logs, track loop iterations, and capture user input metrics.
